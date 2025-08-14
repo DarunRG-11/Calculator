@@ -1,0 +1,51 @@
+* {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: aliceblue;
+    font-size: large;
+    font-weight: bolder;
+}
+
+body {
+    background-color: rgb(27, 27, 101);
+}
+
+h1 {
+    margin-left: 45%;
+    margin-top: 3rem;
+    font-size: larger;
+}
+
+.container {
+    background-color: rgb(44, 38, 168);
+    height: 25rem;
+    width: 16.5rem;
+    position: relative;
+    left: 40%;
+    top: 6rem;
+    border-radius: 1vh;
+}
+
+.numbers {
+    position: relative;
+    bottom: 0%;
+    margin-left: 3px;
+}
+
+.numbers button {
+    color: rgb(23, 23, 81);
+
+    width: 3.5rem;
+    height: 3.5rem;
+    border-radius: 15%;
+    margin-left: 5px;
+    margin-top: 5px;
+}
+
+input {
+    margin-left: 8px;
+    margin-top: 10px;
+    width: 15.1rem;
+    height: 4.5rem;
+    border-radius: 5px;
+    color: rgb(15, 15, 66);
+}
